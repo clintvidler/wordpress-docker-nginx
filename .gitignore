@@ -1,0 +1,21 @@
+# environment file
+# .env <-ignore this in production
+
+# wordpress files
+wordpress
+
+# mysql files
+dbdata
+
+# SSL
+# ssl <-ignore this in production
+
+# logging output
+logs
+
+# IDE
+.idea
+
+# system files
+.DS_Store
+Thumbs.db

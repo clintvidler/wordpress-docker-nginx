@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/clintvidler/src/wordpress-docker'
+docker-compose up -d database wordpress nginx
+make: Leaving directory `/Users/clintvidler/src/wordpress-docker'
+ 
